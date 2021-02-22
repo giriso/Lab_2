@@ -1,5 +1,7 @@
 Imagine Dragons - Demons
 
+Made by Sergey -_-
+
 Chorus 1:
 
 When the days are cold
@@ -66,6 +68,7 @@ It’s dark inside
 It’s where my demons hide
 It’s where my demons hide
 
+<<<<<<< HEAD
 Chorus 3:
 
 They say it's what you make
@@ -77,3 +80,15 @@ Your eyes, they shine so bright
 I want to save their light
 I can't escape this now
 Unless you show me how
+=======
+Verse:
+ 
+When you feel my heat
+Look into my eyes
+It’s where my demons hide
+It’s where my demons hide
+Don’t get too close
+It’s dark inside
+It’s where my demons hide
+It’s where my demons hide
+>>>>>>> part3
